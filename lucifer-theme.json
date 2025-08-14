@@ -1,0 +1,85 @@
+{
+    "name": "Lúcifer Theme",
+    "description": "Um tema sombrio e poderoso em preto e vermelho, inspirado na estética de Lúcifer.",
+    "authors": [
+        {
+            "name": "Pl4nk Stan | +44",
+            "id": "466968658997149706"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": ["#000000", "#000000", "#000000"],
+        "BACKGROUND_SECONDARY": ["#0a0000", "#0a0000", "#0a0000"],
+        "BACKGROUND_TERTIARY": ["#150000", "#150000", "#150000"],
+        "BACKGROUND_ACCENT": ["#330000", "#330000", "#330000"],
+        "BACKGROUND_FLOATING": ["#1a0000", "#1a0000", "#1a0000"],
+        "BACKGROUND_MODIFIER_HOVER": ["#55000026", "#55000026", "#55000026"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#66000026", "#66000026", "#66000026"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#ff000099", "#ff000099", "#ff000099"],
+
+        "TEXT_NORMAL": ["#ff1a1a", "#ff1a1a", "#ff1a1a"],
+        "TEXT_MUTED": ["#8b0000", "#8b0000", "#8b0000"],
+        "TEXT_LINK": ["#ff0000", "#ff0000", "#ff0000"],
+        "TEXT_POSITIVE": ["#ff4d4d", "#ff4d4d", "#ff4d4d"],
+        "TEXT_WARNING": ["#ff0000", "#8b0000", "#ff0000"],
+        "TEXT_DANGER": ["#ff0000", "#8b0000", "#ff0000"],
+
+        "INTERACTIVE_NORMAL": ["#ff1a1a", "#ff1a1a", "#ff1a1a"],
+        "INTERACTIVE_HOVER": ["#660000", "#660000", "#660000"],
+        "INTERACTIVE_ACTIVE": ["#ff0000", "#ff0000", "#ff0000"],
+        "INTERACTIVE_MUTED": ["#4d0000", "#4d0000", "#4d0000"],
+
+        "CHANNELS_DEFAULT": ["#ff0000", "#ff0000", "#ff0000"],
+        "CHANNEL_ICON": ["#ff00004d", "#ff00004d", "#ff00004d"],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#ff4d4d", "#ff4d4d", "#ff4d4d"],
+
+        "SCROLLBAR_AUTO_THUMB": ["#550000", "#550000", "#550000"],
+        "SCROLLBAR_AUTO_TRACK": ["#220000", "#220000", "#220000"],
+        "SCROLLBAR_THIN_THUMB": ["#660000", "#660000", "#660000"],
+        "SCROLLBAR_THIN_TRACK": ["#220000", "#220000", "#220000"],
+
+        "MENTION_FOREGROUND": ["#ffffff", "#ffffff", "#ffffff"],
+        "BACKGROUND_MENTIONED": ["#ff00001a", "#8b00001a", "#ff00001a"],
+        "BACKGROUND_MENTIONED_HOVER": ["#ff00001a", "#8b00001a", "#ff00001a"],
+
+        "CARD_PRIMARY_BG": ["#0a0000", "#0a0000", "#0a0000"],
+        "CARD_SECONDARY_BG": ["#000000", "#000000", "#000000"],
+        "PANEL_BG": ["#0a0000", "#0a0000", "#0a0000"],
+
+        "HEADER_PRIMARY": ["#ff0000", "#ff0000", "#ff0000"],
+        "HEADER_SECONDARY": ["#8b0000", "#8b0000", "#8b0000"]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ff0000",
+        "PRIMARY_200": "#cc0000",
+        "PRIMARY_300": "#990000",
+        "PRIMARY_400": "#660000",
+        "PRIMARY_500": "#330000",
+        "BLACK_500": "#000000",
+        "WHITE_500": "#ffffff",
+        "RED_400": "#ff0000",
+        "GREEN_360": "#8b0000",
+        "YELLOW_300": "#ff0000",
+        "PLUM_20": "#0a0000",
+        "PLUM_16": "#000000",
+        "PLUM_22": "#1a0000"
+    },
+    "background": {
+        "url": "https://media1.tenor.com/m/1ytjnmeInw4AAAAC/dio-dio-brando.gif",
+        "alpha": 1
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#330000",
+            "ic_mic_muted_neutral": "#550000",
+            "ic_soundboard": "#330000",
+            "ic_soundboard_muted": "#550000",
+            "ic_video": "#330000",
+            "ic_video_disabled": "#550000"
+        },
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
